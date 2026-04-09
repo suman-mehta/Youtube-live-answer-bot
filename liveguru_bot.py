@@ -2,7 +2,7 @@
 """
 🤖 LiveGuru - YouTube Live AI Assistant
 Author: Suman Mehta
-GitHub: https://github.com/sumanmehta/liveguru
+GitHub: https://github.com/suman-mehta/liveguru
 
 Ultra-fast, Self-Healing, AI-Powered YouTube Live Stream Bot
 """

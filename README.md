@@ -54,7 +54,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/sumanmehta/liveguru.git
+git clone https://github.com/suman-mehta/liveguru.git
 cd liveguru
 pip install -r requirements.txt
 ```

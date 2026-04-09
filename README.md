@@ -54,7 +54,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/suman-mehta/liveguru.git
+git clone https://github.com/suman-mehta/Youtube-live-answer-bot.git
 cd liveguru
 pip install -r requirements.txt
 ```
